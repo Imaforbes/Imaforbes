@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi i'm <a href="https://www.imaforbes.com/">Imaforbes</a> 🖖</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://www.canva.com/design/DAGB-T5YyRc/wgKsYmEPChiGU_BVmWl76w/view?utm_content=DAGB-T5YyRc&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 
 [![GitHub followers](https://img.shields.io/github/followers/imaforbes?style=social)](https://github.com/Imaforbes)
 
