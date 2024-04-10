@@ -3,7 +3,9 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-https://img.shields.io/badge/[Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/imaforbes)
+
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/Imaforbes)
+
 
 ## Sobre mi
 
