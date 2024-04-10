@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi i'm <a href="https://www.imaforbes.com/">Imaforbes</a> 🖖</h1>
 </div>
-<img src="">
+<img src="https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-90504957_534260_xifb9j.jpg">
 
 [![GitHub followers](https://img.shields.io/github/followers/imaforbes?style=social)](https://github.com/Imaforbes)
 
@@ -10,16 +10,10 @@
 
 - 🧰 Engineer  
 - 🖥️ Web developer
+- Programmer 🖥️🖱️
 - Writer 📚
 <br>
 
-## Stack
-- HTML
-- CSS 
-- JAVASCRIPT 
-- PHP 
-- LINUX 
-- PHP
 
 ### ⚙️ &nbsp;GitHub Analytics
 
