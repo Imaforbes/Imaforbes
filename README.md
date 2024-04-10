@@ -14,8 +14,12 @@
 <br>
 
 ## Stack
-[HTML] [CSS] [JAVASCRIPT] [PHP] [LINUX] 
-[PHP]
+- HTML
+- CSS 
+- JAVASCRIPT 
+- PHP 
+- LINUX 
+- PHP
 
 
 ## Proyectos *bombitas*
