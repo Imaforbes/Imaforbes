@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi i'm <a href="https://www.imaforbes.com/">Imaforbes</a> 🖖</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf5X594OH2b5tGEOizwm4o1S2Qbk5URQa-DQ&usqp=CAU)">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf5X594OH2b5tGEOizwm4o1S2Qbk5URQa-DQ&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf5X594OH2b5tGEOizwm4o1S2Qbk5URQa-DQ&usqp=CAU)">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
