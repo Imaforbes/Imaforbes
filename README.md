@@ -1,5 +1,9 @@
 <div align="center">
 <h1 align="center">Hi I'm <a href="https://www.imaforbes.com/">Imaforbes</a> 🖖</h1>
+  <p class="text-justify sobre-mi__descripcion" data-section="about" data-value="text">
+							Challenging today's limits to build tomorrow 🚀 As an engineer, my mission is to question the status quo and find new ways to improve the world through technology. Innovation drives me and art inspires me—that's why I see technology as the greatest human creation. If you want to learn more about my work and experience, click below.",
+						</p>
+  
 </div>
 <img src="https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-90504957_534260_xifb9j.jpg">
 
