@@ -17,6 +17,9 @@ I’m currently diving deeper into AI, emerging technologies, and political syst
 ✉️ Let’s connect or collaborate — open to new challenges and creative tech.
 </p>
 
+
+
+
 <p class="text-justify sobre-mi__descripcion" data-section="about" data-value="text">
 							"Challenging today's limits to build tomorrow 🚀 As an engineer, my mission is to question the status quo and find new ways to improve the world through technology. Innovation drives me and art inspires me—that's why I see technology as the greatest human creation. If you want to learn more about my work and experience, click below.",
 						</p>
