@@ -1,6 +1,22 @@
 <div align="center">
 <h1 align="center">Hi I'm <a href="https://www.imaforbes.com/">Imaforbes</a> 🖖</h1>
   <p class="text-justify sobre-mi__descripcion" data-section="about" data-value="text">
+	  👨‍💻 Hi, I’m Imanol — a software engineer with a passion for building, learning, and exploring.
+
+💡 My journey bridges technology, creativity, and strategy:
+
+I write clean, scalable code with a strong foundation in software engineering.
+
+I hold a Master’s in Marketing and enjoy combining data with storytelling.
+
+I’m currently diving deeper into AI, emerging technologies, and political systems.
+
+🌍 I believe in code that solves real problems and in ideas that spark meaningful change.
+
+📚 Always learning. Always curious.
+✉️ Let’s connect or collaborate — open to new challenges and creative tech.
+
+
 							Challenging today's limits to build tomorrow 🚀 As an engineer, my mission is to question the status quo and find new ways to improve the world through technology. Innovation drives me and art inspires me—that's why I see technology as the greatest human creation. If you want to learn more about my work and experience, click below.",
 						</p>
   
