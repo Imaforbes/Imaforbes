@@ -64,7 +64,7 @@ I approach technology as both a tool and a language.
 ## DevCard
 <a href="https://app.daily.dev/imaforbes"><img src="https://api.daily.dev/devcards/v2/0jXPEqNRJ3oqWwgI0GpY1.png?type=default&r=atr" width="356" alt="Imanol's Dev Card"/></a>
 
-## Sobre mi
+## About Me
 
 - 🧰 Engineer  
 - 🖥️ Web developer
