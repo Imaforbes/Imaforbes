@@ -1,20 +1,53 @@
 <div align="center">
 <h1 align="center">Hi I'm <a href="https://www.imaforbes.com/">Imaforbes</a> 🖖</h1>
   <p class="text-justify sobre-mi__descripcion" data-section="about" data-value="text">
-👨‍💻 Hi, I’m Imanol — a software engineer with a passion for building, learning, and exploring.
+# 👋 Hi, I'm Imanol
 
-💡 My journey bridges technology, creativity, and strategy:
+**Engineer | From Code to Strategy & Beyond**
 
-I write clean, scalable code with a strong foundation in software engineering.
+I’m a software engineer who believes that every line of code carries intention,  
+and every system we build shapes the world we live in.
 
-I hold a Master’s in Marketing and enjoy combining data with storytelling.
+With a foundation in engineering, a Master’s in Marketing,  
+and a growing passion for politics and critical thinking,  
+I approach technology as both a tool and a language.
 
-I’m currently diving deeper into AI, emerging technologies, and political systems.
+> **In the tech industry, we build the future.**  
+> I believe that future should be meaningful, responsible, and beautifully made.
 
-🌍 I believe in code that solves real problems and in ideas that spark meaningful change.
+---
 
-📚 Always learning. Always curious.
-✉️ Let’s connect or collaborate — open to new challenges and creative tech.
+## 🛠️ Tech Stack
+
+- **Languages**: Python, PHP, JavaScript, TypeScript, HTML/CSS  
+- **Frameworks**: React, Node.js, Laravel  
+- **Tools**: Git, Docker, WAMP, VS Code, Postman  
+- **Interests**: AI, digital strategy, systems design, civic tech
+
+---
+
+## 🚀 Current Focus
+
+- Exploring ways to make technology more human-centric  
+- Building tools that are intuitive, scalable, and sustainable  
+- Combining engineering with strategy to create digital ecosystems that matter
+
+---
+
+## 📌 Featured Projects
+
+✨ *Coming soon — stay tuned for case studies and projects that blend logic, creativity, and impact.*
+
+---
+
+## 🤝 Let’s Connect
+
+- [LinkedIn](www.linkedin.com/in/imanol-perez)  
+- [Portfolio Website](https://www.imaforbes.com)  
+
+---
+
+*“Code is poetry. But good systems? They’re symphonies.”*
 </p>
 <br>
 
