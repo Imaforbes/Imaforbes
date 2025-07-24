@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi I'm <a href="https://www.imaforbes.com/">Imaforbes</a> 🖖</h1>
   <p class="text-justify sobre-mi__descripcion" data-section="about" data-value="text">
-# 👋 Hi, I'm Imanol
+ 👋 Hi, I'm Imanol
 
 **Engineer | From Code to Strategy & Beyond**
 
