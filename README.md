@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11&height=250&section=header&text=Imaforbes&fontSize=90&fontAlignY=35&animation=twinkling" width="100%" />
 
-  <h3>👋 Hi, I'm Imanol</h3>
+  <h3>🖖 Hi, I'm Imanol</h3>
   <p><strong>Engineer | From Code to Strategy & Beyond</strong></p>
 
   <p>
