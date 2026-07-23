@@ -11,64 +11,47 @@
   <i>“Code is poetry. But good systems? They’re symphonies.”</i>
   <br><br>
 
-  <a href="https://www.linkedin.com/in/imanol-perez"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.imaforbes.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#00d2ff" /></a>
+  <a href="https://www.linkedin.com/in/imanol-perez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.imaforbes.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00d2ff" /></a>
   <a href="https://github.com/Imaforbes"><img src="https://img.shields.io/github/followers/imaforbes?style=for-the-badge&logo=github&color=333333" /></a>
 </div>
 
 ---
 
-<table align="center" style="border:none; border-collapse: collapse;">
-  <tr>
-    <td width="50%" valign="top">
-      <h2>🚀 Current Focus</h2>
-      <ul>
-        <li>Exploring ways to make technology more human-centric.</li>
-        <li>Building tools that are intuitive, scalable, and sustainable.</li>
-        <li>Combining engineering with strategy to create digital ecosystems that matter.</li>
-      </ul>
-      <h2>📌 Featured Projects</h2>
-      <p>✨ <em>Coming soon — stay tuned for case studies and projects that blend logic, creativity, and impact.</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h2>🛠️ Tech Stack</h2>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img-shields.io/badge/Python-%233670A0.svg?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img-shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-        <img src="https://img-shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <p>
-        <img src="https://img-shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-        <img src="https://img-shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img-shields.io/badge/Node.js-%236DA55F.svg?style=flat-square&logo=node.js&logoColor=white" />
-      </p>
-      <p>
-        <img src="https://img-shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img-shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img-shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+## 🚀 Current Focus
+- Exploring ways to make technology more human-centric.
+- Building tools that are intuitive, scalable, and sustainable.
+- Combining engineering with strategy to create digital ecosystems that matter.
+
+## 📌 Featured Projects
+✨ *Coming soon — stay tuned for case studies and projects that blend logic, creativity, and impact.*
+
+## 🛠️ Tech Stack
+
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 <div align="center">
   <h2>⚙️ GitHub Analytics & DevCard</h2>
-  <table align="center" style="border:none; border-collapse: collapse;">
-    <tr>
-      <td align="center" valign="top">
-        <a href="https://app.daily.dev/imaforbes">
-          <img src="https://api.daily.dev/devcards/v2/0jXPEqNRJ3oqWwgI0GpY1.png?type=default&r=atr" width="300" alt="Imanol's Dev Card"/>
-        </a>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://github.com/Imaforbes">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Imaforbes&show_icons=true&theme=nord&include_all_commits=true&count_private=true" height="150" style="margin-bottom: 10px;"/><br>
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Imaforbes&layout=compact&langs_count=8&theme=nord" height="140"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <br>
+  
+  <a href="https://app.daily.dev/imaforbes">
+    <img src="https://api.daily.dev/devcards/v2/0jXPEqNRJ3oqWwgI0GpY1.png?type=default&r=atr" width="300" alt="Imanol's Dev Card"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Imaforbes">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Imaforbes&show_icons=true&theme=nord&include_all_commits=true&count_private=true" height="150" />
+    <br><br>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Imaforbes&layout=compact&langs_count=8&theme=nord" height="140" />
+  </a>
 </div>
